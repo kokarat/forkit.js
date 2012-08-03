@@ -10,4 +10,4 @@ MIT licensed
 
 Copyright (C) 2012 Hakim El Hattab, http://hakim.se
 
-kokarat.me
+Fork by kokarat.me
