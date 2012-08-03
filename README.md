@@ -9,3 +9,5 @@ Curious about how this looks in action? [Check out the demo page](http://lab.hak
 MIT licensed
 
 Copyright (C) 2012 Hakim El Hattab, http://hakim.se
+
+kokarat.me
